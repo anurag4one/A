@@ -1,2 +1,4 @@
 developmetn code
 making changes for ques 5
+
+new changes from C
